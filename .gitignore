@@ -1,1 +1,2 @@
-/first-app_01-hello-world/node_modules/
+**/node_modules/
+**/.angular/
